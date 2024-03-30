@@ -13,7 +13,7 @@ I thrive on thinking outside the box, pushing boundaries, and exploring unconven
 There's nothing quite like the rush of excitement and satisfaction that comes with cracking a tough problem or bringing a project to life. My journey in coding isn’t just about writing code —it's a calling to make a meaningful impact through technology.
 
 * 🎓 Graduated from General Assembly's Software Engineering Immersive program on 8th March 2024. 
-* 🤩 In my off-line time, I'm playing 🎾, hiking with my 2 doggies 🐶, chilling out for a movie 🍿  
+* 🤩 In my off-line time, I'm playing tennis 🎾, hiking with my doggies 🐶, or chilling out for a movie 🍿  
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
