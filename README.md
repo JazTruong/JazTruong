@@ -5,7 +5,7 @@
 # 👋 Hey there!
 Welcome to my GitHub profile! Please check out my repo, where you'll find projects created during my 12-week Software Engineering Immersive program. These include a font-end, a full-stack CRUD website application, a full-stack Single Page Application utilising APIs, a React-based website application.
 
-## 😃 About Me
+## 😃 About Me :
 I'm Jason, a Melbourne-based software engineer with a background in customer service and hospitality. Coding blew my mind with its limitless toolkit, where each line of code crafts a solution to a unique challenge. I'm captivated by its endless possibilities to solve problems, its iterative nature that fosters my quest for continuous learning, and my passion of transforming ideas into tangible, functional software or websites.
 
 I thrive on thinking outside the box, pushing boundaries, and exploring unconventional approaches to problem-solving, whether it’s optimising front-end interfaces to create a seamless user experience or architecting back-end systems for scalable solutions. With an open mind primed for learning, a diligent work ethic, and a knack for logical thinking, I thrive on the creative process inherent in coding. From conceptualisation to execution, I thoroughly enjoy the journey of trial and error, constantly refining my skills and embracing new technologies. 
