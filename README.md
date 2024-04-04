@@ -30,16 +30,17 @@ There's nothing quite like the rush of excitement and satisfaction that comes wi
 </div>
 
 ## 📝 Projects :
-# NomNom
+### NomNom
 <p align="center">
   <img width="400" src="https://github.com/JazTruong/JazTruong/assets/106736861/caf10e5f-661e-48f7-bed8-09b25687ace3" />
 </p>
 
 A React-based recipe application, powered by Spoonacular API. With features like random meal recipes, personalised meal plan based on daily calories intake, quick idea searches.
+
 View project: [NomNom](https://nomnomrecipe.surge.sh/)
 View code: [Code](https://github.com/JazTruong/NomNom/tree/main/NomNom)
 
-# Feulin-Good
+### Feulin-Good
 
 
 
