@@ -30,7 +30,9 @@ There's nothing quite like the rush of excitement and satisfaction that comes wi
 </div>
 
 ## Projects :
-<img src="https://github.com/JazTruong/JazTruong/assets/106736861/be63df16-fc03-4fb7-9264-d7de1e82830f" width="800" />
+<p align="center">
+<img width="500" src="https://github.com/JazTruong/JazTruong/assets/106736861/be63df16-fc03-4fb7-9264-d7de1e82830f" />
+</p>
 
 Demonstrated front-end web development skills through an interactive player vs player game, incorporating features for player input management and dynamic styling.
 
