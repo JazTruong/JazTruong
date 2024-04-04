@@ -5,7 +5,7 @@
 # 👋 Hey there!
 Welcome to my GitHub profile! Please check out my repo, where you'll find projects created during my 12-week Software Engineering Immersive program. These include a font-end, a full-stack CRUD website application, a full-stack Single Page Application utilising APIs, a React-based website application.
 
-## 😃 About Me :
+# 😃 About Me :
 I'm Jason, a Melbourne-based software engineer with a background in customer service and hospitality. Coding blew my mind with its limitless toolkit, where each line of code crafts a solution to a unique challenge. I'm captivated by its endless possibilities to solve problems, its iterative nature that fosters my quest for continuous learning, and my passion of transforming ideas into tangible, functional software or websites.
 
 I thrive on thinking outside the box, pushing boundaries, and exploring unconventional approaches to problem-solving, whether it’s optimising front-end interfaces to create a seamless user experience or architecting back-end systems for scalable solutions. With an open mind primed for learning, a diligent work ethic, and a knack for logical thinking, I thrive on the creative process inherent in coding. From conceptualisation to execution, I thoroughly enjoy the journey of trial and error, constantly refining my skills and embracing new technologies. 
@@ -15,7 +15,7 @@ There's nothing quite like the rush of excitement and satisfaction that comes wi
 * 🎓 Graduated from General Assembly's Software Engineering Immersive program on 8th March 2024. 
 * 🤩 In my off-line time, I'm playing tennis 🎾, hiking with my doggies 🐶, or chilling out for a movie 🍿  
 
-## :hammer_and_wrench: Languages and Tools :
+# :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -29,8 +29,8 @@ There's nothing quite like the rush of excitement and satisfaction that comes wi
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
 </div>
 
-## 📝 Projects :
-### NomNom
+# 📝 Projects :
+## NomNom
 <p align="center">
   <img width="400" src="https://github.com/JazTruong/JazTruong/assets/106736861/caf10e5f-661e-48f7-bed8-09b25687ace3" />
 </p>
@@ -40,7 +40,7 @@ A React-based recipe application, powered by Spoonacular API. With features like
 View project: [NomNom](https://nomnomrecipe.surge.sh/)  
 View code: [Code](https://github.com/JazTruong/NomNom/tree/main/NomNom)
 
-### Feulin-Good
+## Feulin-Good
 <p align="center">
   <img width="400" src="https://github.com/JazTruong/JazTruong/assets/106736861/2ca69fa1-4e24-4bf7-8fb6-ee0957e124f5" />
 </p>
@@ -49,7 +49,7 @@ A group-based project, developed a full-stack Single Page Application integrated
 
 View code: [Code](https://github.com/JazTruong/project_3_feulin_good/tree/jason)
 
-### CampShare
+## CampShare
 <p align="center">
   <img width="400" src="https://github.com/JazTruong/JazTruong/assets/106736861/c3f6af65-cd64-467b-aac7-0d4e702c530c" />
 </p>
@@ -59,7 +59,7 @@ Developed a full-stack CRUD website that allows camping enthusiasts to share the
 View project: [CampShare](https://campshare.onrender.com/)  
 View code: [Code](https://github.com/JazTruong/campshare)
 
-### Tic-Tac-Toe
+## Tic-Tac-Toe
 <p align="center">
   <img width="400" src="https://github.com/JazTruong/JazTruong/assets/106736861/be63df16-fc03-4fb7-9264-d7de1e82830f" />
 </p>
@@ -69,7 +69,7 @@ Demonstrated front-end web development skills through an interactive player vs p
 View project: [Tic-Tac-Toe](https://jaztruong.github.io/tic-tac-toe/)  
 View code: [Code](https://github.com/JazTruong/tic-tac-toe)
 
-## :fire: Stats :
+# :fire: Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JazTruong&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
