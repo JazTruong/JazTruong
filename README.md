@@ -41,16 +41,35 @@ View project: [NomNom](https://nomnomrecipe.surge.sh/)
 View code: [Code](https://github.com/JazTruong/NomNom/tree/main/NomNom)
 
 ### Feulin-Good
+<p align="center">
+  <img width="400" src="https://github.com/JazTruong/JazTruong/assets/106736861/2ca69fa1-4e24-4bf7-8fb6-ee0957e124f5" />
+</p>
 
+A group-based project, developed a full-stack Single Page Application integrated with GoogleMaps API that displays all petrol stations in Australia. We used collaborative tools like Slack, Trello to communication and keep track individual process, and Github for project management.
 
+View code: [Code](https://github.com/JazTruong/project_3_feulin_good/tree/jason)
 
+### CampShare
+<p align="center">
+  <img width="400" src="https://github.com/JazTruong/JazTruong/assets/106736861/c3f6af65-cd64-467b-aac7-0d4e702c530c" />
+</p>
+
+Developed a full-stack CRUD website that allows camping enthusiasts to share their favourite camping spots, edit their posts, leave reviews, and delete entries as needed. 
+
+View project: [CampShare](https://campshare.onrender.com/)  
+View code: [Code](https://github.com/JazTruong/campshare)
+
+### Tic-Tac-Toe
 <p align="center">
   <img width="400" src="https://github.com/JazTruong/JazTruong/assets/106736861/be63df16-fc03-4fb7-9264-d7de1e82830f" />
 </p>
 
 Demonstrated front-end web development skills through an interactive player vs player game, incorporating features for player input management and dynamic styling.
 
-## :fire: Stats
+View project: [Tic-Tac-Toe](https://jaztruong.github.io/tic-tac-toe/)  
+View code: [Code](https://github.com/JazTruong/tic-tac-toe)
+
+## :fire: Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JazTruong&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
