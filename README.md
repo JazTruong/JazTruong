@@ -15,7 +15,8 @@ There's nothing quite like the rush of excitement and satisfaction that comes wi
 * 🎓 Graduated from General Assembly's Software Engineering Immersive program on 8th March 2024. 
 * 🤩 In my off-line time, I'm playing tennis 🎾, hiking with my doggies 🐶, or chilling out for a movie 🍿  
 
-# :hammer_and_wrench: Languages and Tools :
+# :hammer_and_wrench: Skills :
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -28,6 +29,11 @@ There's nothing quite like the rush of excitement and satisfaction that comes wi
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
 </div>
+
+### Other skills :
+* Project management
+* Stakeholder management
+* Collaborating with interdisciplinary teams
 
 # 📝 Projects :
 ## NomNom
