@@ -29,9 +29,22 @@ There's nothing quite like the rush of excitement and satisfaction that comes wi
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
 </div>
 
-## Projects :
+## 📝 Projects :
+# NomNom
 <p align="center">
-<img width="500" src="https://github.com/JazTruong/JazTruong/assets/106736861/be63df16-fc03-4fb7-9264-d7de1e82830f" />
+  <img width="400" src="https://github.com/JazTruong/JazTruong/assets/106736861/caf10e5f-661e-48f7-bed8-09b25687ace3" />
+</p>
+
+A React-based recipe application, powered by Spoonacular API. With features like random meal recipes, personalised meal plan based on daily calories intake, quick idea searches.
+View project: [NomNom](https://nomnomrecipe.surge.sh/)
+View code: [Code](https://github.com/JazTruong/NomNom/tree/main/NomNom)
+
+# Feulin-Good
+
+
+
+<p align="center">
+  <img width="400" src="https://github.com/JazTruong/JazTruong/assets/106736861/be63df16-fc03-4fb7-9264-d7de1e82830f" />
 </p>
 
 Demonstrated front-end web development skills through an interactive player vs player game, incorporating features for player input management and dynamic styling.
