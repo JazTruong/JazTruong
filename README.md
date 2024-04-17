@@ -44,7 +44,7 @@ There's nothing quite like the rush of excitement and satisfaction that comes wi
 A React-based recipe application, powered by Spoonacular API. With features like random meal recipes, personalised meal plan based on daily calories intake, quick idea searches.
 
 View project: [NomNom](https://nomnomrecipe.surge.sh/)  
-View code: [Code](https://github.com/JazTruong/NomNom/tree/main/NomNom)
+View code: [Code](https://github.com/JazTruong/NomNom)
 
 ## Feulin-Good
 <p align="center">
